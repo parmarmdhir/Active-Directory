@@ -1,0 +1,2 @@
+- Developed by Microsoft 
+- Im : AD organizes and stores information about network resources such as users, computers, groups, and devices 
